@@ -1,5 +1,7 @@
 # Chidori 組立説明書
 
+_The English version of the build guide is [here](README_en.md)._
+
  Chidori 拡張キットの組立説明書は[こちら](https://github.com/ka2hiro/chidori_expansion_build_guide/blob/master/README.md) を参照してください。
 
 

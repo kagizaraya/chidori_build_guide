@@ -1,7 +1,13 @@
 # Chidori build guide
 
+Please refer to [here](https://github.com/ka2hiro/chidori_expansion_build_guide/blob/master/README_en.md) for the Chidori expansion kit build guide.
+
+
+
+
 
 ## Before build
+
 * Please be aware of injuries with soldering irons, tools, parts etc.
 * When you leave your seat during work, please confirm that the soldering iron is turned off.
 * Very small parts are included, so be careful not to lose.

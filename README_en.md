@@ -202,6 +202,10 @@ In addition, you may also prepare the following as necessary.
 
 ![dip switch](images/IMG_4307.jpg)
 
+2. Set the DIP switches as follows, setting 1 to Off (down) and 2 to 4 to On (up).
+
+![dip switch2](images/IMG_4570.jpg)
+
 
 
 

@@ -324,11 +324,11 @@ Please refer to [here](https://github.com/ka2hiro/chidori_expansion_build_guide/
 
 
 ## ファームウェアを書き込む
-ファームウェアはQMKを利用します。QMK本体にはまだマージされていませんので、以下のリポジトリをクローンし、"chidori_support" ブランチをチェックアウトしてビルドしてください。
+ファームウェアはQMKを利用します。以下のリポジトリをクローンしてください。
 
-[qmk_firmware](https://github.com/ka2hiro/qmk_firmware)
+[qmk_firmware](https://github.com/qmk/qmk_firmware)
 
-チェックアウトしたら、ローカルリポジトリのディレクトリへ移動してください。
+クローンしたら、ローカルリポジトリのディレクトリへ移動してください。
 
 次にキーボードをコンピュータに接続し、ブートローダモードに入ってください。
 

@@ -57,7 +57,7 @@ Please refer to [here](https://github.com/ka2hiro/chidori_expansion_build_guide/
 29 |![M2 Standoff 7mm](images/IMG_4480.jpg)| M2スペーサ | 7mm | 8 |                   | | 
 30 |![M2 Screw](images/IMG_4483.jpg)| M2ネジ    | 4mm | 24 |                   | | 
 31 |![RubberFeet](images/IMG_4485.jpg)| ゴム足 |      | 8 |                | | 
-32 |![TRRS Cable](images/IMG_4486.jpg)| TRRSケーブル  |       | 1 |     | | 
+32 |![TRRS Cable](images/IMG_4486.jpg)| TRRSケーブル  |       | 1 | カールタイプまたはストレートタイプのどちらかが含まれる | | 
 33 |![USB MiniB Cable](images/IMG_4490.jpg)| USB MiniBケーブル  |       | 1 |     | | 
 
 

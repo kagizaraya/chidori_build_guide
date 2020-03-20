@@ -53,7 +53,7 @@ Number | Image | Name   | Value | Qty | Remarks         | Place(Master) | Place(
 29 |![M2 Standoff 7mm](images/IMG_4480.jpg)| M2 standoff | 7mm | 8 |                   | | 
 30 |![M2 Screw](images/IMG_4483.jpg)| M2 screw | 4mm | 24 |                   | | 
 31 |![RubberFeet](images/IMG_4485.jpg)| Rubber feet |      | 8 |                | | 
-32 |![TRRS Cable](images/IMG_4486.jpg)| TRRS cable |       | 1 |     | | 
+32 |![TRRS Cable](images/IMG_4486.jpg)| TRRS cable |       | 1 | Includes curl type or straight type. | | 
 33 |![USB MiniB Cable](images/IMG_4490.jpg)| USB MiniB cable |       | 1 |     | | 
 
 

@@ -27,7 +27,7 @@ Please refer to [here](https://github.com/ka2hiro/chidori_expansion_build_guide/
 番号 | 画像 | 名前      | 値     | 個数 | 備考                | 部品番号（マスタ側） | 部品番号（スレーブ側） 
 :----|:------|:--------|:-----|:----|:-----------------|:-------|:-------
 1 |![PCB](images/IMG_4411.jpg)| PCB      |       | 2    | マスタ、スレーブ1枚ずつ         | |
-2 |![Top  Plate](images/IMG_4414.jpg)| トッププレート |  | 2 |           | | 
+2 |![Top  Plate](images/IMG_5625.jpg)| トッププレート |  | 2 | 2022/06より拡張キットと部品共通化のため形状を変更 | |
 3 |![Bottom Plate](images/IMG_4412.jpg)| ボトムプレート |     | 2 |        | | 
 4 |![Acryl Plate](images/IMG_4415.jpg)| アクリルプレート |  | 2 |        | | 
 5 |![MPU](images/IMG_4425.jpg)| MPU | ATMEGA328P | 1 |    | U1 | 
@@ -285,6 +285,8 @@ Please refer to [here](https://github.com/ka2hiro/chidori_expansion_build_guide/
 
 
 ## スイッチをつける
+__2022/06より、拡張キットと部品共通化のためトッププレートの形状を変更しました。部品リストの画像で形状を確認してください。__
+
 1. スイッチをトッププレートにはめ込みます。
 ![switch insert to plate](images/IMG_4337.jpg)
 

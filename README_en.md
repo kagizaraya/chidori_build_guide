@@ -23,7 +23,7 @@ The following parts are included in the kit. Please check whether there is any s
 Number | Image | Name   | Value | Qty | Remarks         | Place(Master) | Place(Slave) 
 :----|:------|:--------|:-----|:----|:-----------------|:-------|:-------
 1 |![PCB](images/IMG_4411.jpg)| PCB      |       | 2    | 1 for master, 1 for slave. | |
-2 |![Top  Plate](images/IMG_4414.jpg)| Top plate |  | 2 |           | | 
+2 |![Top  Plate](images/IMG_5625.jpg)| Top plate |  | 2 | The shape has been changed since 2022/06 to share parts with the expansion kit. | |
 3 |![Bottom Plate](images/IMG_4412.jpg)| Bottom plate |     | 2 |        | | 
 4 |![Acryl Plate](images/IMG_4415.jpg)| Acrylic  plate |  | 2 |        | | 
 5 |![MPU](images/IMG_4425.jpg)| MPU | ATMEGA3280-PU | 1 |    | U1 | 
@@ -294,6 +294,8 @@ If it is not recognized as a USB device or does not enter the boot loader mode, 
 
 
 ## Attach the key switches to the top plate
+__The shape of the top plate has been changed since 2022/06 to standardize parts with the expansion kit. Please confirm the shape with the image in the parts list.__
+
 1. Attach the key switches to the top plate.
 
 ![switch insert to plate](images/IMG_4337.jpg)
